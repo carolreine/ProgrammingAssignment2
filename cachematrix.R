@@ -23,7 +23,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ## cacheSolve computes the inverse of the special "matrix" returned by makeCacheMatrix.
-## you need to run the cacheSolve to times in order to see the message
+## you need to run the cacheSolve two times in order to see the message
 
 cacheSolve <- function(x, ...) {
         
